@@ -3,8 +3,8 @@ yay for nix, uses nix-search-cli to to find packages and searches the NUR; Adds 
 
 Vibecoded, if anyone wants to take this concept and make it properly they can use the name and everything
 
-Claude Text
-# nay
+
+# Claude Text
 Interactive `nix search` + `configuration.nix` editor for NixOS.  
 Searches both **nixpkgs** and **NUR** (Nix User Repository), numbered like `yay`.
 
