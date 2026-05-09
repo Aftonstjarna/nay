@@ -1,5 +1,6 @@
 # nay
 yay for nix, uses nix-search-cli to to find packages and searches the NUR; Adds to /etc/nixos/configuration.nix and then runs rebuild
+
 Vibecoded, if anyone wants to take this concept and make it properly they can use the name and everything
 
 Claude Text
